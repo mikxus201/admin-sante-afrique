@@ -1,0 +1,17 @@
+﻿# Composer / Node
+/vendor
+/node_modules
+# Laravel
+.env
+.env.*
+/storage/*.key
+/public/storage
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+
+# (optionnel) ignorer des uploads publics lourds
+/public/uploads
+# OS / IDE
+.DS_Store
